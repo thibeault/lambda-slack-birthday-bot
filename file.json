@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "name": "jack",
+      "birthday": "1973-05-02"
+    },
+    {
+      "name": "dave",
+      "birthday": "1973-11-16"
+    },
+    {
+      "name": "ted",
+      "birthday": "1973-10-01"
+    },
+    {
+      "name": "paul",
+      "birthday": "1973-11-26"
+    }
+  ]
+}
