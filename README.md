@@ -217,3 +217,6 @@ Bonne fete @ted :birthday:. De tout les Snoro :-)
 - Rule name: Daily
 - Rule description: Run Every day
 - Schedule expression: rate(1 day)
+
+# To-DO
+- Need to look into webpack to build the python package: (https://webpack.github.io/)
