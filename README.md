@@ -205,7 +205,7 @@ slackChannel=\<The Channel you added your bot>
 If you updated the file.json with your team members birthdays and today is one of the members birthday, you would see this 
 message posted in the channel. You should add 2 member with today and tomorrow in your file for testing...
 ```
-Bonne fete @ted :birthday:. De tout les Snoro :-)
+Bonne fête @ted :birthday:. De tous les snoros :-)
 ```
 
 ### Create your CloudWatch Trigger Schedule
