@@ -1,3 +1,5 @@
+# coding: latin-1
+
 from __future__ import print_function
 
 import json
@@ -41,7 +43,7 @@ def lambda_handler(event, context):
             if sc.rtm_connect():
 
                 #custom message for the birthday person
-                message = " Bonne fete @" + value['name'] + " :birthday:. De tout les Snoro :-)"
+                message = " Bonne fête @" + value['name'] + " :birthday:. De tous les snoros :-)"
                 friends = value['name']
                 # The actual command to post the message, which is also printed out to the console
                 # The print may be a good way to keep logs :)
