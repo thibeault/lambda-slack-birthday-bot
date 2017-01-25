@@ -220,3 +220,7 @@ Bonne fête @ted :birthday:. De tous les snoros :-)
 
 # To-DO
 - Need to look into webpack to build the python package: (https://webpack.github.io/)
+
+Author Information
+------------------
+thibeault@gmail.com
